@@ -1,9 +1,0 @@
-Package: com.turath.storeoverlay
-Name: Turath Store Overlay
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Description: Arabic Turath Store overlay for jailbroken iOS apps.
-Maintainer: Turath Store
-Author: Turath Store
-Section: Tweaks
-Depends: firmware (>= 15.0)
